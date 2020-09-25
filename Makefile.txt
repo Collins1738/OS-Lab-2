@@ -1,0 +1,9 @@
+  
+# list/Makefile
+#
+# Makefile for list implementation and test file.
+#
+# Collins Chikeuba
+
+processes: main.c
+	gcc -o main main3.c
